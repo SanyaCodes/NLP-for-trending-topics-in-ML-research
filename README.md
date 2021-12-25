@@ -5,13 +5,16 @@ Neural Information Processing Systems (NIPS) is one of the top machine learning 
 
 *The technique used here to handle large amounts of data can be applied to other text datasets as well.
 
-Tools used in this code : Pandas, Numpy and Sci-kitLearn.
+Tools used in this code : Pandas, Numpy and Sci-kitLearn
+
+Trend : Growth in ML research over the years
+![alt text](https://raw.githubusercontent.com/Ssanyachetwani/NLP-for-trending-topics-in-ML-research/rim/rim1.png)
 
 To visualize preprocessed text data : Word-Cloud
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/Ssanyachetwani/NLP-for-trending-topics-in-ML-research/rim/rim2.png)
 
 For 10 most common words extraction : Count-Vectorizer
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/Ssanyachetwani/NLP-for-trending-topics-in-ML-research/rim/rim3.png)
 
 For analysing trends : LDA (Latent-Dirichlet-Allocation)
 
