@@ -5,18 +5,29 @@ Neural Information Processing Systems (NIPS) is one of the top machine learning 
 
 *The technique used here to handle large amounts of data can be applied to other text datasets as well.
 
-Tools used in this code : Pandas, Numpy and Sci-kitLearn
+Tools used in this code : **Pandas, Numpy and Sci-kitLearn
 
-Trend : Growth in ML research over the years
-![rim1](https://github.com/Ssanyachetwani/NLP-for-trending-topics-in-ML-research/rim/rim1.png)
+### Trend : Growth in ML research over the years
 
-To visualize preprocessed text data : Word-Cloud
-![rim2](https://github.com/Ssanyachetwani/NLP-for-trending-topics-in-ML-research/rim/rim2.png)
+<img src="https://github.com/Ssanyachetwani/NLP-for-trending-topics-in-ML-research/blob/main/rim/rim1.png" alt="rim1" width="500"/>
 
-For 10 most common words extraction : Count-Vectorizer
-![rim3](https://github.com/Ssanyachetwani/NLP-for-trending-topics-in-ML-research/rim/rim3.png)
+### To visualize preprocessed text data : Word-Cloud
 
-For analysing trends : LDA (Latent-Dirichlet-Allocation)
+<img src="https://github.com/Ssanyachetwani/NLP-for-trending-topics-in-ML-research/blob/main/rim/rim2.png" alt="rim2" width="500"/>
+
+### For 10 most common words extraction : Count-Vectorizer
+
+<img src="https://github.com/Ssanyachetwani/NLP-for-trending-topics-in-ML-research/blob/main/rim/rim3.png" alt="rim3" width="500"/>
+
+### For analysing trends : LDA _(Latent-Dirichlet-Allocation)
+
+#### Trending topics in ML research found via LDA:
+Topic no. 1:
+networks learning neural stochastic optimal algorithms optimization fast linear recurrent<br />
+Topic no. 2:
+learning multi deep efficient models neural networks recognition robust feature<br />
+Topic no. 3:
+model neural using learning convex sparse networks active matching visual<br />
 
 
 
